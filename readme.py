@@ -1,3 +1,12 @@
+# OBJECTIVE:
+# I wanted to web scrape minimalistbaker.com's recipe site after selecting the
+# filters for "gluten free" and "7 ingredients or less"
+#
+# There were 24 pages of results with 20 recipes on each page. I carried out the 
+# web scrape on pages 2-24, and only wanted it to print out the title and url if 
+# "Chocolate" was in the title =)
+
+
 # RESULTS:
 
 # Recipes containing "Chocolate" in the title (if any) from https://minimalistbaker.com/recipe-index/?fwp_special-diet=gluten-free&fwp_simple-factor=7-ingredients-or-less&fwp_paged=2:
